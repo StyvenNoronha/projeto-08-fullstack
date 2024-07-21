@@ -14,7 +14,7 @@ header{
         transition: transform 500ms
     }
 
-    & img[src*="logo"]:hover{
+    & img[src*="Logo"]:hover{
         transform: rotate(90deg);
     }
 
